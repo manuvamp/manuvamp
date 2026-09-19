@@ -25,3 +25,13 @@ Most tools stop at capture. The useful part starts after.
 
 - Collaboration, pilots, partnerships: https://oranoai.com/join/
 - Press kit: https://oranoai.com/press
+
+### Find ORANO around the web
+
+- 🏟️ Arena profile (verified): https://fightmy.app/product/orano
+- 🧠 Official MCP Registry: https://registry.modelcontextprotocol.io (search: io.github.manuvamp/orano-personal-context-mcp)
+- 📰 Blog — ORANO Founder Notes: https://orano.hashnode.dev
+- 🛠️ Maker page: https://make.rs/@oranoai
+- 💬 Quora: https://www.quora.com/profile/Orano-AI
+- 🌐 Tumblr: https://oranoai.tumblr.com
+- 📚 Resource hub & essays: https://manuvamp.github.io/
