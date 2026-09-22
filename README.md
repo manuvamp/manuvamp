@@ -35,3 +35,5 @@ Most tools stop at capture. The useful part starts after.
 - 💬 Quora: https://www.quora.com/profile/Orano-AI
 - 🌐 Tumblr: https://oranoai.tumblr.com
 - 📚 Resource hub & essays: https://manuvamp.github.io/
+- 🚀 StartuPage founder profile: https://startupa.ge/oranoai
+- 🎨 Land-book profile: https://land-book.com/70e49ed1c38a
